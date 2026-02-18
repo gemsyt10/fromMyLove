@@ -84,6 +84,9 @@ if(localStorage.getItem("letterOpened") != true) {
             поцеловать тебя, чтобы ты не забыла этого даже через 10 лет, 
             хочу тебя <span style="font-weight: 800; color:#aa4e5c;">носить на ручках</span>, чтобы ты не уставала.
         </p>
+        <p style="font-size: 18px; line-height: 1.6; color: #3f2d2d; margin: 0 0 15px 0;">
+            Ти можешь мне доверять, я не хочу тебе плохого и желаю тебе только лутшего.
+        </p>
 
         <p style="font-size: 22px; line-height: 1.5; color: #a52f3c; margin: 25px 0 10px 0; font-weight: bold; text-align: center;">
             Соничка я тебя действительно люблю и без тебя мне сложно....
@@ -97,8 +100,3 @@ if(localStorage.getItem("letterOpened") != true) {
         letterFromMyLove.insertAdjacentHTML("beforeend", LIST)
     })
 }
-
-
-
-
-

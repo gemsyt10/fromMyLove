@@ -91,7 +91,7 @@ if(localStorage.getItem("letterOpened") != true) {
     </div>
 
     <div style="font-size: 28px; margin-top: 20px; color: #b3455b;">
-        ❤️ Твой человек ❤️
+        ❤️ Твой Русик ❤️
     </div>
 </div>`
         letterFromMyLove.insertAdjacentHTML("beforeend", LIST)
